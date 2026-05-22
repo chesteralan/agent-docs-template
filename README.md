@@ -78,6 +78,7 @@ This repository includes multiple filled-out examples showing how to customize d
 - [React Vite SaaS](examples/react-vite-saas/README.md)
 - [Next.js SaaS](examples/nextjs-saas/README.md)
 - [Node.js API](examples/node-api/README.md)
+- [Firebase App](examples/firebase/README.md)
 
 Use these examples as references when creating project-specific documentation.
 

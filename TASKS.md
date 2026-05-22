@@ -106,7 +106,7 @@ agent-docs-template/
 
 - [x] Add React + Vite example
 - [x] Add Next.js example
-- [ ] Add Firebase example
+- [x] Add Firebase example
 - [x] Add Node.js API example
 - [x] Add SaaS architecture example
 
