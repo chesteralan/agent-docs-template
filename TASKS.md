@@ -12,10 +12,10 @@ A step-by-step roadmap for building and launching the `agent-docs-template` repo
 - [x] Add `README.md`
 - [x] Add `LICENSE`
 - [x] Add `.gitignore`
-- [ ] Create initial commit
-- [ ] Configure repository visibility
-- [ ] Add repository description
-- [ ] Add GitHub topics
+- [x] Create initial commit
+- [x] Configure repository visibility
+- [x] Add repository description
+- [x] Add GitHub topics
 
 ---
 

@@ -69,6 +69,24 @@ Recommended for:
 
 ---
 
+
+# Example Project
+
+This repository includes a full example project in [examples/react-vite-saas](examples/react-vite-saas/), demonstrating how to fill out and use all documentation templates in a realistic SaaS stack (React, Vite, Node.js, PostgreSQL, TypeScript, etc.).
+
+**Explore the example docs:**
+
+- [AGENTS.md](examples/react-vite-saas/AGENTS.md)
+- [ARCHITECTURE.md](examples/react-vite-saas/ARCHITECTURE.md)
+- [API_CONTRACTS.md](examples/react-vite-saas/API_CONTRACTS.md)
+- [BUSINESS_RULES.md](examples/react-vite-saas/BUSINESS_RULES.md)
+- [CODEBASE_MAP.md](examples/react-vite-saas/CODEBASE_MAP.md)
+- [GLOSSARY.md](examples/react-vite-saas/GLOSSARY.md)
+- [REFACTOR_RULES.md](examples/react-vite-saas/REFACTOR_RULES.md)
+- [UI_PATTERNS.md](examples/react-vite-saas/UI_PATTERNS.md)
+
+Use this as a reference for customizing your own docs or as a starting point for new projects.
+
 # Suggested Project Structure
 
 ```txt
