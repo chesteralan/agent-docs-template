@@ -183,12 +183,14 @@ agent-docs-template/
 
 ### v0.1.0
 
-- [x] Core templates complete
-- [x] README complete
-- [x] MIT license added
-
-### v0.5.0
-
+### v1.0.0
+- [x] Freeze template structure and document stability policy in docs/STABILITY.md
+- [x] Add validation checklist to each template and example (docs/VALIDATION.md)
+- [ ] Review and harden all templates for edge cases, clarity, and AI-readiness
+- [ ] Add at least one agent-specific usage example for Cursor, Claude Code, Windsurf, and OpenAI Codex
+- [ ] Add prompt engineering and context loading strategy guides
+- [ ] Add markdown linting and unresolved placeholder CI check
+- [ ] Tag and announce public v1.0.0 release
 - [x] Add Next.js example project with filled-out docs (in examples/nextjs-saas/)
 - [x] Add Node.js API example project with filled-out docs (in examples/node-api/)
 - [x] Add minimal template version in templates/minimal/
@@ -201,9 +203,13 @@ agent-docs-template/
 
 ### v1.0.0
 
-- [ ] Production-ready templates
-- [ ] Stable structure
-- [ ] Public launch ready
+- [ ] Freeze template structure and document stability policy in docs/STABILITY.md
+- [ ] Add validation checklist to each template and example (docs/VALIDATION.md)
+- [ ] Review and harden all templates for edge cases, clarity, and AI-readiness
+- [ ] Add at least one agent-specific usage example for Cursor, Claude Code, Windsurf, and OpenAI Codex
+- [ ] Add prompt engineering and context loading strategy guides
+- [ ] Add markdown linting and unresolved placeholder CI check
+- [ ] Tag and announce public v1.0.0 release
 
 ---
 

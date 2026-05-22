@@ -24,3 +24,4 @@ A practical template tuned for solo maintainers who want clarity without heavy p
 1. Copy this folder into your project docs directory
 2. Fill placeholders with concise, practical decisions
 3. Keep docs updated during each feature or refactor
+4. Validate your documentation using the [VALIDATION.md](../../docs/VALIDATION.md) checklist before release or PR.

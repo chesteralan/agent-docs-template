@@ -27,6 +27,7 @@ Demonstrates how to use and customize all core documentation templates in a mode
 1. Review each doc for structure and content ideas
 2. Copy and adapt templates for your own stack
 3. Keep docs updated as your project evolves
+4. Validate your documentation using the [VALIDATION.md](../../docs/VALIDATION.md) checklist before release or PR.
 
 ---
 

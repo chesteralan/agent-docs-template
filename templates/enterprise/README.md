@@ -24,3 +24,4 @@ A comprehensive template for multi-team systems with stricter governance and rev
 1. Copy this folder into your project docs directory
 2. Fill placeholders with explicit operational details
 3. Enforce updates in pull request review workflows
+4. Validate your documentation using the [VALIDATION.md](../../docs/VALIDATION.md) checklist before release or PR.
