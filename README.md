@@ -34,6 +34,7 @@ The goal is to make repositories easier for both humans and AI agents to navigat
 | `UI_PATTERNS.md` | UI/UX and component standards |
 | `REFACTOR_RULES.md` | Safe refactoring guidelines |
 | `GLOSSARY.md` | Shared terminology |
+| `PLACEHOLDERS.md` | Placeholder naming and usage guide |
 
 ---
 
@@ -70,22 +71,25 @@ Recommended for:
 ---
 
 
-# Example Project
+# Example Projects
 
-This repository includes a full example project in [examples/react-vite-saas](examples/react-vite-saas/), demonstrating how to fill out and use all documentation templates in a realistic SaaS stack (React, Vite, Node.js, PostgreSQL, TypeScript, etc.).
+This repository includes multiple filled-out examples showing how to customize docs for different stacks:
 
-**Explore the example docs:**
+- [React Vite SaaS](examples/react-vite-saas/README.md)
+- [Next.js SaaS](examples/nextjs-saas/README.md)
+- [Node.js API](examples/node-api/README.md)
 
-- [AGENTS.md](examples/react-vite-saas/AGENTS.md)
-- [ARCHITECTURE.md](examples/react-vite-saas/ARCHITECTURE.md)
-- [API_CONTRACTS.md](examples/react-vite-saas/API_CONTRACTS.md)
-- [BUSINESS_RULES.md](examples/react-vite-saas/BUSINESS_RULES.md)
-- [CODEBASE_MAP.md](examples/react-vite-saas/CODEBASE_MAP.md)
-- [GLOSSARY.md](examples/react-vite-saas/GLOSSARY.md)
-- [REFACTOR_RULES.md](examples/react-vite-saas/REFACTOR_RULES.md)
-- [UI_PATTERNS.md](examples/react-vite-saas/UI_PATTERNS.md)
+Use these examples as references when creating project-specific documentation.
 
-Use this as a reference for customizing your own docs or as a starting point for new projects.
+# Template Variants
+
+Template packs are available for different team sizes and complexity levels:
+
+- [Minimal](templates/minimal/README.md)
+- [Enterprise](templates/enterprise/README.md)
+- [Solo Developer](templates/solo/README.md)
+
+These folders provide opinionated starting points while preserving the same core structure.
 
 # Suggested Project Structure
 

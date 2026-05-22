@@ -66,10 +66,10 @@ agent-docs-template/
 
 ## Documentation Standards
 
-- [ ] Define markdown formatting standards
-- [ ] Define naming conventions
-- [ ] Define architecture documentation format
-- [ ] Define AI instruction formatting
+- [x] Define markdown formatting standards
+- [x] Define naming conventions
+- [x] Define architecture documentation format
+- [x] Define AI instruction formatting
 - [x] Define placeholder variable conventions
 
 ---
@@ -79,11 +79,11 @@ agent-docs-template/
 ## Template System
 
 - [x] Add placeholder variables
-- [ ] Create reusable documentation sections
-- [ ] Create starter templates
-- [ ] Create minimal template version
-- [ ] Create enterprise template version
-- [ ] Create solo developer template version
+- [x] Create reusable documentation sections
+- [x] Create starter templates
+- [x] Create minimal template version
+- [x] Create enterprise template version
+- [x] Create solo developer template version
 
 ---
 
@@ -105,10 +105,10 @@ agent-docs-template/
 ## Example Projects
 
 - [x] Add React + Vite example
-- [ ] Add Next.js example
+- [x] Add Next.js example
 - [ ] Add Firebase example
-- [ ] Add Node.js API example
-- [ ] Add SaaS architecture example
+- [x] Add Node.js API example
+- [x] Add SaaS architecture example
 
 ---
 
@@ -146,15 +146,15 @@ agent-docs-template/
 
 ## Recommended GitHub Topics
 
-- [ ] ai
-- [ ] documentation
-- [ ] llm
-- [ ] ai-agents
-- [ ] prompt-engineering
-- [ ] context-engineering
-- [ ] developer-tools
-- [ ] templates
-- [ ] architecture
+- [x] ai
+- [x] documentation
+- [x] llm
+- [x] ai-agents
+- [x] prompt-engineering
+- [x] context-engineering
+- [x] developer-tools
+- [x] templates
+- [x] architecture
 
 ---
 
@@ -164,18 +164,18 @@ agent-docs-template/
 
 - [x] Create `CHANGELOG.md`
 - [x] Establish semantic versioning
-- [ ] Create initial release `v0.1.0`
+- [x] Create initial release `v0.1.0`
 - [ ] Create stable release `v1.0.0`
 
 ---
 
 ## Quality Improvements
 
-- [ ] Proofread all documents
-- [ ] Ensure consistent formatting
-- [ ] Validate markdown rendering
-- [ ] Improve discoverability
-- [ ] Improve onboarding experience
+- [x] Proofread all documents
+- [x] Ensure consistent formatting
+- [x] Validate markdown rendering
+- [x] Improve discoverability
+- [x] Improve onboarding experience
 
 ---
 
@@ -183,15 +183,21 @@ agent-docs-template/
 
 ### v0.1.0
 
-- [ ] Core templates complete
-- [ ] README complete
-- [ ] MIT license added
+- [x] Core templates complete
+- [x] README complete
+- [x] MIT license added
 
 ### v0.5.0
 
-- [ ] Examples added
-- [ ] Community files added
-- [ ] Reusable placeholders added
+- [x] Add Next.js example project with filled-out docs (in examples/nextjs-saas/)
+- [x] Add Node.js API example project with filled-out docs (in examples/node-api/)
+- [x] Add minimal template version in templates/minimal/
+- [x] Add enterprise template version in templates/enterprise/
+- [x] Add solo developer template version in templates/solo/
+- [x] Add/expand community files: CODEOWNERS, FUNDING.yml, SUPPORT.md, GOVERNANCE.md
+- [x] Add/expand reusable placeholder documentation and usage guide in docs/PLACEHOLDERS.md
+- [x] Review and improve all example docs for clarity and completeness
+- [x] Update roadmap and changelog for v0.5.0 release
 
 ### v1.0.0
 
@@ -254,7 +260,7 @@ agent-docs-template/
 
 # Recommended License
 
-- [ ] Add MIT License
+- [x] Add MIT License
 
 Recommended because:
 - Simple and permissive
@@ -267,16 +273,16 @@ Recommended because:
 
 ## Recommended First Release Scope
 
-- [ ] README.md
-- [ ] LICENSE
-- [ ] AGENTS.md
-- [ ] ARCHITECTURE.md
-- [ ] CODEBASE_MAP.md
-- [ ] REFACTOR_RULES.md
-- [ ] BUSINESS_RULES.md
-- [ ] Example project
-- [ ] GitHub topics
-- [ ] Initial release
+- [x] README.md
+- [x] LICENSE
+- [x] AGENTS.md
+- [x] ARCHITECTURE.md
+- [x] CODEBASE_MAP.md
+- [x] REFACTOR_RULES.md
+- [x] BUSINESS_RULES.md
+- [x] Example project
+- [x] GitHub topics
+- [x] Initial release
 
 ---
 
